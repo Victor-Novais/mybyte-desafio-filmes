@@ -117,13 +117,20 @@
   --sidebar-ring: oklch(0.556 0 0);
 }
 
+body {
+  background-color: #050810;
+  color: #f5f7fa;
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
   }
+
   body {
     @apply bg-background text-foreground;
   }
+
   html {
     @apply font-sans;
   }
