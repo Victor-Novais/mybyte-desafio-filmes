@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "titulo": "The Matrix",
+        "ano": 1999,
+        "genero": "Ficção Científica",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+        "sinopse": "O jovem programador Thomas Anderson é atormentado por estranhos pesadelos em que está sempre conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a desconfiar da realidade. Thomas conhece os misteriosos Morpheus e Trinity e descobre que é vítima de um sistema inteligente e artificial chamado Matrix, que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia."
+    },
+    {
+        "id": 2,
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "ano": 2001,
+        "genero": "Fantasia",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/tlvsNCwWEIgwAM23aNzTmMIcPEZ.jpg",
+        "sinopse": "Após herdar um anel de seu tio, o hobbit Frodo participa da missão de salvar a Terra-Média do perverso Sauron. Ele precisa conduzir o Um Anel até a Montanha da Perdição e destruí-lo para sempre e, para isso, conta com a aliança de oito bravos companheiros contando com um mago, três hobbits, um elfo, um anão e dois homens."
+    },
+    {
+        "id": 3,
+        "titulo": "Interestelar",
+        "ano": 2014,
+        "genero": "Ficção Científica",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/6ricSDD83BClJsFdGB6x7cM0MFQ.jpg",
+        "sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar."
+    },
+    {
+        "id": 4,
+        "titulo": "O Rei Leão",
+        "ano": 1994,
+        "genero": "Animação",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg",
+        "sinopse": "Mufasa, o Rei Leão, e a rainha Sarabi apresentam ao reino o herdeiro do trono, Simba. O recém-nascido recebe a bênção do sábio babuíno Rafiki, mas ao crescer é envolvido nas artimanhas de seu tio Scar, o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono."
+    },
+    {
+        "id": 5,
+        "titulo": "Cidade de Deus",
+        "ano": 2002,
+        "genero": "Drama",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/gfnXixcGC060QcG6JPxN6AMdVsq.jpg",
+        "sinopse": "Buscapé é um jovem morador da Cidade de Deus que cresce em meio à violência. Com medo de se tornar um bandido, enxerga na fotografia uma oportunidade de ter uma vida digna."
+    },
+    {
+        "id": 6,
+        "titulo": "Vingadores: Ultimato",
+        "ano": 2019,
+        "genero": "Ação",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg",
+        "sinopse": "Após os eventos devastadores de \"Vingadores: Guerra Infinita\", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências."
+    },
+    {
+        "id": 7,
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "ano": 1995,
+        "genero": "Crime",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
+        "sinopse": "Vincent Vega e Jules Winnfield são dois assassinos profissionais que trabalham fazendo cobranças para Marsellus Wallace, um poderosos gângster. Vega é forçado a sair com a garota do chefe, temendo passar dos limites. Enquanto isso, o pugilista Butch Coolidge se mete em apuros por ganhar uma luta que deveria perder."
+    },
+    {
+        "id": 8,
+        "titulo": "Clube da Luta",
+        "ano": 1999,
+        "genero": "Drama",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/mCICnh7QBH0gzYaTQChBDDVIKdm.jpg",
+        "sinopse": "Um homem deprimido que sofre de insônia conhece um estranho vendedor de sabonetes chamado Tyler Durden. Eles formam um clube clandestino com regras rígidas onde lutam com outros homens cansados de suas vidas mundanas. Mas sua parceria perfeita é comprometida quando Marla chama a atenção de Tyler."
+    },
+    {
+        "id": 9,
+        "titulo": "Toy Story",
+        "ano": 1995,
+        "genero": "Animação",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/686F0CEPmI4ZXjFbWtIHQOBwnfI.jpg",
+        "sinopse": "Buzz Lightyear é o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz não imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ciúme, acredita ter perdido um lugar precioso no coração do seu dono. Os dois brinquedos vivem brigando até que vão parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles vão viver uma incrível aventura."
+    },
+    {
+        "id": 10,
+        "titulo": "Gladiador",
+        "ano": 2000,
+        "genero": "Ação",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
+        "sinopse": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar pública sua predileção em deixar o trono para Maximus, o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano."
+    },
+    {
+        "id": 11,
+        "titulo": "Titanic",
+        "ano": 1997,
+        "genero": "Romance",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/As0zX43h3w6kD2NS4uVHu9HKdEh.jpg",
+        "sinopse": "Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor."
+    },
+    {
+        "id": 12,
+        "titulo": "Forrest Gump: O Contador de Histórias",
+        "ano": 1994,
+        "genero": "Drama",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
+        "sinopse": "Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran."
+    },
+    {
+        "id": 13,
+        "titulo": "A Origem",
+        "ano": 2010,
+        "genero": "Ficção Científica",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+        "sinopse": "Cobb é um ladrão habilidoso que comete espionagem corporativa infiltrando-se no subconsciente de seus alvos durante o estado de sono. Impedido de retornar para sua família, ele recebe a oportunidade de se redimir ao realizar uma tarefa aparentemente impossível: plantar uma ideia na mente do herdeiro de um império. Para realizar o crime perfeito, ele conta com a ajuda do parceiro Arthur, o discreto Eames e a arquiteta de sonhos Ariadne. Juntos, eles correm para que o inimigo não antecipe seus passos."
+    },
+    {
+        "id": 14,
+        "titulo": "Coringa",
+        "ano": 2019,
+        "genero": "Drama",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+        "sinopse": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante."
+    },
+    {
+        "id": 15,
+        "titulo": "Parasita",
+        "ano": 2019,
+        "genero": "Drama",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+        "sinopse": "Toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família glamorosa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos."
+    },
+    {
+        "id": 16,
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "ano": 2001,
+        "genero": "Fantasia",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",
+        "sinopse": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursley. Em seu aniversário de 11 anos ele recebe uma carta que mudará sua vida: um convite para ingressar em Hogwarts, uma Escola de Magia e Bruxaria."
+    },
+    {
+        "id": 17,
+        "titulo": "Divertida Mente",
+        "ano": 2015,
+        "genero": "Animação",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg",
+        "sinopse": "Quando Riley, de 11 anos, se muda para uma nova cidade, suas Emoções - Alegria, Medo, Raiva, Nojinho e Tristeza trabalham juntas para ajudá-la na transição. Porém, uma série de eventos faz com que Alegria e Tristeza se envolvam em uma perigosa aventura que virará o mundo de Riley de cabeça para baixo."
+    },
+    {
+        "id": 18,
+        "titulo": "O Poderoso Chefão",
+        "ano": 1972,
+        "genero": "Crime",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+        "sinopse": "Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos."
+    },
+    {
+        "id": 19,
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "ano": 2008,
+        "genero": "Ação",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
+        "sinopse": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego."
+    },
+    {
+        "id": 20,
+        "titulo": "Homem-Aranha: Através do Aranhaverso",
+        "ano": 2023,
+        "genero": "Animação",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/fBS6y0LYX4kU6pPSBYMdQy6SIHX.jpg",
+        "sinopse": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram."
+    },
+    {
+        "id": 21,
+        "titulo": "Whiplash: Em Busca da Perfeição",
+        "ano": 2014,
+        "genero": "Drama",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/z693uKD7j3zcdX0zVMQPIA3cSZf.jpg",
+        "sinopse": "Andrew sonha em ser o melhor baterista de sua geração. Ele chama a atenção do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsessão, colocando em risco a saúde física e mental do jovem músico."
+    },
+    {
+        "id": 22,
+        "titulo": "A Chegada",
+        "ano": 2016,
+        "genero": "Ficção Científica",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/3rDwbFpn6z5HJUgDjpfhEePx8VI.jpg",
+        "sinopse": "Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks, uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça. No entanto, a resposta para todas as perguntas e mistérios coloca em risco a vida de Louise e a de toda a humanidade."
+    },
+    {
+        "id": 23,
+        "titulo": "Duna",
+        "ano": 2021,
+        "genero": "Ficção Científica",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
+        "sinopse": "Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar."
+    },
+    {
+        "id": 24,
+        "titulo": "La La Land: Cantando Estações",
+        "ano": 2016,
+        "genero": "Romance",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/AvMietG6xuobpSSdmVnKuTjv4bL.jpg",
+        "sinopse": "O pianista Sebastian conhece a atriz Mia, e os dois se apaixonam perdidamente. Em busca de oportunidades para suas carreiras na competitiva Los Angeles, os jovens tentam fazer o relacionamento amoroso dar certo, enquanto perseguem fama e sucesso."
+    },
+    {
+        "id": 25,
+        "titulo": "Viva: A Vida é uma Festa",
+        "ano": 2017,
+        "genero": "Animação",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+        "sinopse": "Apesar da desconcertante proibição da música imposta pela sua família há várias gerações, Miguel sonha em tornar-se um músico de sucesso como o seu ídolo, Ernesto de la Cruz. Desesperado para provar o seu talento, Miguel encontra-se na deslumbrante e colorida Terra dos Mortos, seguindo uma misteriosa cadeia de acontecimentos. Pelo caminho, conhece o encantador Hector e, juntos, partem numa extraordinária viagem para desvendar a verdadeira história por detrás da história da família de Miguel."
+    },
+    {
+        "id": 26,
+        "titulo": "Corra!",
+        "ano": 2017,
+        "genero": "Terror",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg",
+        "sinopse": "Agora que Chris e sua namorada, Rose, chegaram à fase de conhecer os pais no namoro, ela o convida para um fim de semana no interior com Missy e Dean. A princípio, Chris acha que o comportamento excessivamente agradável dos dois como tentativas nervosas de lidar com o relacionamento inter-racial da filha, mas, conforme o fim de semana avança, uma série de descobertas cada vez mais perturbadoras o levam a uma verdade que ele jamais poderia ter imaginado."
+    },
+    {
+        "id": 27,
+        "titulo": "Círculo de Fogo",
+        "ano": 2013,
+        "genero": "Ficção Científica",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/uFaWzdxzITZxHKaKwyG26QfzHiG.jpg",
+        "sinopse": "Criaturas monstruosas conhecidas como Kaiju começam a emergir do mar. Para combatê-los, a humanidade desenvolve uma série de robôs gigantescos, os Jaegers. Cada um é controlado por duas pessoas por meio de uma conexão neural. Entretanto, mesmo os Jaegers se mostram insuficientes para derrotar os Kaiju. Diante deste cenário, a última esperança é um velho robô, que passa a ser comandado por um antigo piloto e uma pessoa em treinamento."
+    },
+    {
+        "id": 28,
+        "titulo": "Shrek",
+        "ano": 2001,
+        "genero": "Animação",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/wxeqfC221YMptRRdzxlijAh7q8l.jpg",
+        "sinopse": "Em um pântano distante vive Shrek, um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada. Todos eles foram expulsos de suas casas pelo maligno Lorde Farquaad. Determinado a recuperar a tranquilidade, Shrek faz um acordo com Farquaad: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro resgatarem uma princesa que foi aprisionada por um dragão."
+    },
+    {
+        "id": 29,
+        "titulo": "Se Beber, Não Case!",
+        "ano": 2009,
+        "genero": "Comédia",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/m0tQyMdp3fy5ooUOQkJMd1fQKBJ.jpg",
+        "sinopse": "Dois dias antes de seu casamento, Doug e três amigos vão de carro até Las Vegas para uma louca e memorável despedida de solteiro. Quando os três padrinhos acordam na manhã seguinte, eles não conseguem se lembrar de nada e notam que Doug desapareceu. Com pouco tempo de sobra, os amigos tentam refazer a noite anterior e encontrar Doug para que possam levá-lo de volta a Los Angeles a tempo de chegar ao altar."
+    },
+    {
+        "id": 30,
+        "titulo": "Tropa de Elite",
+        "ano": 2007,
+        "genero": "Ação",
+        "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/jpG8AVzRQabzjHeJ7JWbuXe9T1n.jpg",
+        "sinopse": "Rio de Janeiro, 1997. Nascimento, capitão da Tropa de Elite do Rio de Janeiro, é designado para chefiar uma das equipes que tem como missão \"apaziguar\" o Morro do Turano por um motivo que ele considera insensato. Mas ele tem que cumprir as ordens enquanto procura por um substituto. Sua mulher, Rosane, está no final da gravidez e todos os dias lhe pede para sair da linha de frente do batalhão. Pressionado, o capitão sente os efeitos do estresse.Neste clima, é chamado para mais uma emergência num morro. Em meio a um tiroteio em um baile funk, Nascimento e sua equipe têm que resgatar dois aspirantes a oficiais da PM: Neto e Matias. Ansiosos por entrar em ação e impressionados com a eficiência de seus salvadores, os dois se candidatam ao curso de formação da Tropa de Elite."
+    }
+]
