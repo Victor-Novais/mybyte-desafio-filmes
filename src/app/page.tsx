@@ -9,15 +9,19 @@ import { Movie } from "@/types/movie";
 
 const filmes: Movie[] = filmesData;
 
+
 export default function Home() {
   const [busca, setBusca] = useState("");
   const [favoritos, setFavoritos] = useState<number[]>([]);
+  const [somenteFavoritos, setSomenteFavoritos] = useState(false);
 
   const filmesFiltrados = useMemo(() => {
-    return filmes.filter((filme) =>
-      filme.titulo.toLowerCase().includes(busca.toLowerCase())
-    );
-  }, [busca]);
+    return filmes.filter((filme) => {
+      const passaBusca = filme.titulo.toLowerCase().includes(busca.toLowerCase());
+      const passaFavorito = somenteFavoritos ? favoritos.includes(filme.id) : true;
+      return passaBusca && passaFavorito;
+    });
+  }, [busca, somenteFavoritos, favoritos]);
 
   const toggleFavorito = (id: number) => {
     setFavoritos((prev) =>
@@ -31,7 +35,12 @@ export default function Home() {
 
       <div className="max-w-7xl mx-auto px-6 py-10 md:px-12">
         <div className="mx-auto mb-10 max-w-md">
-          <SearchBar value={busca} onChange={setBusca} />
+          <SearchBar
+            value={busca}
+            onChange={setBusca}
+            somenteFavoritos={somenteFavoritos}
+            onToggleFavoritos={() => setSomenteFavoritos((prev) => !prev)}
+          />
         </div>
 
         <h2 className="mb-6 font-[family-name:var(--font-display)] text-2xl font-bold">
