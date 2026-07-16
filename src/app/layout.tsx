@@ -16,7 +16,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Mini Catálogo de Filmes",
+  title: "MyByte Filmes",
   description: "Descubra e favorite seus filmes preferidos",
 };
 
